@@ -4,6 +4,16 @@ Course about Deep Learning from Institute of Computing at the Federal University
 # Objective
 To provide students with an introductory understanding of concepts, architectures, and algorithms used in neural networks and deep learning. Students will learn to design, train, and evaluate neural network models, including perceptrons, deep neural networks, convolutional and recurrent networks, using modern frameworks such as TensorFlow and PyTorch.
 
+## Notebooks on Google Colab
+
+The notebooks can be executed directly in the browser without configuring a
+local Python environment. Start with the logistic regression notebook and
+preferably follow the listed order.
+
+Each notebook prepares the data required to run its examples and exercises.
+
+**[Access the course notebooks](notebooks/README.md)**
+
 # Syllabus
 - Introduction to Neural Networks: History, biological inspiration, and early neuron models.
 - Perceptrons and Simple Neural Networks: Single-layer perceptron, delta rule, activation function, and linearly separable problems.
